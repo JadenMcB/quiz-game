@@ -1,0 +1,60 @@
+    body {
+        background-color: #8C8A93;
+    }
+
+    .col {
+        background-color: #8C8A93;
+    }
+
+    .dragClass {
+        background-color: #92B4A7;
+    }
+
+    h1 {
+        background-color: #92B4A7;
+        position: relative;
+        right: 15px;
+        width: 1140px;
+        text-align: center;
+        font-weight: bold;
+        color: #515151
+    }
+
+    h2 {
+        font-size: 20px;
+        background-color: #81667A;
+        position: relative;
+        left: 35px;
+        font-family: sans-serif;
+        font-weight: bold;
+        width: 200px;
+    }
+
+    li {
+        color: #81667A;
+        font-family: sans-serif;
+    }
+
+    #add {
+        color: #92B4A7;
+        background-color: #81667A;
+        border: 3px solid #81667A;
+        border-radius: 2px;
+        position: relative;
+        left: 5px
+    }
+
+    #add:hover {
+        background-color: #D1F0B1;
+    }
+
+    #addClass {
+        background-color: #CCCCCC;
+        border-radius: 2px;
+        border: 3px solid #D1F0B1
+    }
+
+    li {
+        background-color: #B6CB9E;
+        border: 1px solid #92B4A7;
+    }
